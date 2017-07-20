@@ -22,7 +22,7 @@ http://www.greenworm.net/sites/default/files/gw-assets/enable1-wwf-v4.0-wordlist
 
 ---
 
-The deletions:
+The deletions (Exceptionally NSFW):
 
 http://www.greenworm.net/sites/default/files/gw-assets/enable1-wwf-v4.0-wordlist-deletions.txt
 
